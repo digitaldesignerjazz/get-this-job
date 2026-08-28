@@ -4,6 +4,8 @@
 > Leitung: Sven Normen  
 > Assistentin & Sekretärin: Ihre treue Assistentin
 
+#job-search #job-matching #career #job-application #assistant #esslinger-consulting #get-this-job #app #python #typescript
+
 ## Vision
 Eine App, die Jobs findet — für alle, die etwas tun wollen.  
 *Get This Job.*
@@ -11,6 +13,7 @@ Eine App, die Jobs findet — für alle, die etwas tun wollen.
 ## Status
 - [x] Repo öffentlich angelegt
 - [x] Vision dokumentiert
+- [x] Topics als Hashtags im README
 - [ ] Tech-Stack wählen
 - [ ] Erste Meilensteine definieren
 - [ ] MVP-Scope festlegen
